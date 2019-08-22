@@ -1,7 +1,3 @@
-# Data_Journalism_D3
-D3 Unit 16 Howework
-
-
 
 # Unit 16 | Assignment - Data Journalism and D3
 
